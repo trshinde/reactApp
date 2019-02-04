@@ -1,0 +1,13 @@
+                                            ReactJS application
+
+
+--> Components, state, props.
+--> Presentational component, functional component, container component.
+--> UI routing.
+--> Redux actions, thunk, logger, middleware.
+--> Controlled and un-controlled forms.
+--> client-server side communication, fetch().
+--> react animations.
+
+--> localhost:3001 (server side web data)
+--> localhost:3000 (client side data)
