@@ -16,4 +16,5 @@
                                          Steps to execute application
                                         
  I implemented the whole project using visual studio text editor, so giving out the same steps to execute the application:
- --->  Make a local directory and git clone 
+ --->  Make a local directory and git clone https://github.com/trshinde/reactApp.git to that directory.
+ --->  cd 
